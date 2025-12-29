@@ -1,6 +1,6 @@
 # OAI-PMH Repository
 
-The [OAI-PMH Repository plugin](https://omeka.org/classic/plugins/OaipmhRepository/){target=_blank} implements an [Open Archives Initiative Protocol for Metadata Harvesting](http://www.openarchives.org/pmh) repository for Omeka Classic, allowing Omeka items to be harvested by OAI-PMH harvesters. The plugin implements version 2.0 of the protocol.
+The [OAI-PMH Repository plugin](https://omeka.org/classic/plugins/OaiPmhRepository/){target=_blank} implements an [Open Archives Initiative Protocol for Metadata Harvesting](http://www.openarchives.org/pmh) repository for Omeka Classic, allowing Omeka items to be harvested by OAI-PMH harvesters. The plugin implements version 2.0 of the protocol.
 
 This plugin offers the reciprocal functionality provided by the [OAI-PMH Harvester plugin](OaipmhHarvester.md).
 
